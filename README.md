@@ -1,11 +1,18 @@
-# Sample Snack app
+# 🛒 Aplicativo Mercearia - Atividade Individual
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este repositório contém o desenvolvimento da **atividade individual** de layout para aplicativo de mercearia, conforme solicitado pela Etec, com entrega em **06/05/2025**.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## ✅ Objetivos da atividade
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Utilizando **React Native**, foram implementadas as seguintes funcionalidades:
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- 📱 **Navegação entre telas** com React Navigation
+- 📍 **Uso da localização do usuário**
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 🎨 Design System
+
+- **Fonte utilizada**: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- **Paleta de cores**:
+  - Cinza: `#9EA5AA`
+  - Preto: `#000000`
+  - Azul claro: `#8996ED`
